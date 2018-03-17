@@ -1,0 +1,48 @@
+
+body {
+	background-color: #393942;
+	color: #efeded;
+	font-family: 'Open Sans', sans-serif;
+
+}
+
+ul {
+	list-style-type: none;
+	margin-bottom: 10px;
+	padding: 0px;
+
+	text-align: center;
+}
+
+li {
+	display: inline;
+	padding-right: 12px;
+
+}
+
+
+
+p {
+	font-family: 'Roboto', sans-serif
+}
+
+
+
+.banner {
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+
+.mainPhoto {
+	width: 100%;
+	height: auto;
+	margin:0px;
+	padding: 0px;
+
+
+}
+
+/* Text font font-family: 'Roboto', sans-serif; */
