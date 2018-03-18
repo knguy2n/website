@@ -10,14 +10,25 @@ ul {
 	list-style-type: none;
 	margin-bottom: 10px;
 	padding: 0px;
-
 	text-align: center;
 }
 
-li {
+.nav {
 	display: inline;
-	padding-right: 12px;
+	margin-right: 12px;
 
+}
+
+.hover{
+	border-bottom: 1px solid #a32828;
+
+	
+}
+
+.name {
+	margin-right: auto;
+	margin-left: auto;
+	padding-bottom: 0px;
 }
 
 
@@ -32,6 +43,7 @@ p {
 	text-align: center;
 	margin-left: auto;
 	margin-right: auto;
+	margin-bottom: 5px;
 }
 
 
