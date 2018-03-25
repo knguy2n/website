@@ -6,6 +6,25 @@ body {
 
 }
 
+a {
+	color: #efeded;
+	text-decoration: none;
+
+}
+
+a:visited {
+	color: #efeded;
+	text-decoration: none;
+}
+
+.aboutMeHeader{
+	text-align: center;
+}
+
+.jobHeader {
+	text-align: center;
+}
+
 ul {
 	list-style-type: none;
 	margin-bottom: 10px;
@@ -31,10 +50,14 @@ ul {
 	padding-bottom: 0px;
 }
 
-
+#textDiv{
+	margin-left: 10%;
+	margin-right: 10%;
+}
 
 p {
-	font-family: 'Roboto', sans-serif
+	font-family: 'Roboto', sans-serif;
+
 }
 
 
